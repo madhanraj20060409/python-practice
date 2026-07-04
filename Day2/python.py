@@ -127,4 +127,4 @@ if index!=-1:
     print("The substring",substring,"is found at index",index)
 else:
     print("The substring",substring,"is not found in the string")
-
+    
